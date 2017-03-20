@@ -1,7 +1,7 @@
 # geo-area
 [![npm version](https://badge.fury.io/js/geo-area.svg)](https://badge.fury.io/js/geo-area)
 
-convex hull 2D algorithm using monotone chain algorithm
+calculate polygon area by geo coordinates
 
 ## usage
 
