@@ -1,0 +1,23 @@
+{
+  "name": "geo-area",
+  "version": "1.0.0",
+  "description": "calculate polygon area by geo coordinates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eatgrass/geo-area.git"
+  },
+  "keywords": [
+    "geo",
+    "area"
+  ],
+  "author": "eatgrass",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eatgrass/geo-area/issues"
+  },
+  "homepage": "https://github.com/eatgrass/geo-area#readme"
+}
